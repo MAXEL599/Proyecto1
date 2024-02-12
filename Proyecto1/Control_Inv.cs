@@ -57,7 +57,6 @@ namespace Proyecto1
                 txtContraseña.Focus();
             }
         }
-
         
         private void txtUser_TextChanged(object sender, EventArgs e)
         {
