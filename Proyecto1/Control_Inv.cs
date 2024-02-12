@@ -27,7 +27,7 @@ namespace Proyecto1
         private void Control_Inv_Load(object sender, EventArgs e)
         {
             btnAceptar.Enabled = false;
-            
+           
         }
         private void controlBotones()
         {
